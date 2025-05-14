@@ -21,7 +21,7 @@ A simple React web app to quickly extract and download YouTube video thumbnails 
 
 **Build:**
 
-npm run build
+    npm run build
 
 ---
 
